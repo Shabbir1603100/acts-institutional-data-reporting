@@ -1,0 +1,10 @@
+# Never commit local/raw institutional material
+raw/
+private/
+originals/
+*.xlsx
+*.xls
+*.pcap
+.env
+.DS_Store
+__pycache__/
